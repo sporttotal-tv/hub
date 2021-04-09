@@ -1,7 +1,7 @@
 import { createClient } from '../client'
 import { createServer } from '../server'
 import test from 'ava'
-import { wait } from '@saulx/utils'
+import { wait } from '@sporttotal/utils'
 
 test('authorize', async t => {
   createServer({

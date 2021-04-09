@@ -1,4 +1,4 @@
-const a = require('@saulx/utils')
+const a = require('@sporttotal/utils')
 const { stringHash: djb2, hashObject: argHasher } = a
 
 const hash = props => {

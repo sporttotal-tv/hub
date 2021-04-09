@@ -1,6 +1,6 @@
 const murmur = require('saulx-murmur').murmurHash
-const { createPatch } = require('@saulx/selva-diff')
-const { hashObject } = require('@saulx/utils')
+const { createPatch } = require('@sporttotal/selva-diff')
+const { hashObject } = require('@sporttotal/utils')
 
 const sliceRange = (data, msg, force) => {
   const receivedRange = msg.receivedRange
