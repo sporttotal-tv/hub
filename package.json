@@ -42,7 +42,7 @@
   },
   "devDependencies": {
     "@clusterws/cws": "^3.0.0",
-    "@sporttotal/aristotle": "^2.4.0",
+    "@saulx/aristotle": "^2.4.0",
     "ava": "^2.2.0",
     "babel-core": "^6.26.0",
     "babel-eslint": "^7.0.0",
